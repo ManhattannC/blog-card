@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution Design](./assets/images/desktop-design.jpg)
+![Solution Design](./assets/design/desktop-design.jpg)
 
 ### Links
 
